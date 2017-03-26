@@ -54,4 +54,3 @@ function drawWatch() {
     setTimeout(drawWatch, 1000);
 }
 drawWatch();
-
