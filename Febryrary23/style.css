@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.field {
+    width: 1000px;
+    height: 600px;
+    background-color: #ba4040;
+    position: relative;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 130px;       
+}
+
+.field1 {
+    width: 800px;
+    height: 120px;
+    background-color: rgba(222, 21, 21, 0.53);
+    position: absolute;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
